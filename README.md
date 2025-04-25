@@ -23,7 +23,8 @@ Storage: 128GB, 256GB, 512GB
 Each variant links to inventory via product_item
 
 ## ERD Overview
-![ERD Diagram](ERD.png)
+![erd for e commerce (1)](https://github.com/user-attachments/assets/b823bda8-9766-45b3-875b-7e6c974e1a0d)
+
 
 ## How to Use
 1. Run `ecommerce.sql` in MySQL to create the database.
