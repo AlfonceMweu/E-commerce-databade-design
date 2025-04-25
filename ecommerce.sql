@@ -68,7 +68,7 @@ CREATE TABLE product_attribute (
   FOREIGN KEY (attribute_category_id) REFERENCES attribute_category(id));
 
 INSERT INTO brand (name) VALUES ('apple'), ('Samsung');
-INSERT INTO product_category (name) VALUE ('Electronics');
+INSERT INTO product_category (name) VALUES ('phones'),('Electronics');
 INSERT INTO product (name, brand_id, category_id, base_price, description) VALUES ('iPhone 14', 3, 2, 799.99, 'Latest Apple smartphone'),('Galaxy S21', 2, 2, 799.99, 'Latest Samsung smartphone');
 INSERT INTO color (name, hex_code) VALUES ('Red', '#FF0000'),('Blue', '#0000FF');
 INSERT INTO size_category (name) VALUES ('Clothing Size');
