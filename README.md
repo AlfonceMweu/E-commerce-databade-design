@@ -10,7 +10,7 @@ Key Features:
 Core Tables
 Table	Purpose	Example Data
 product	Base product info	"iPhone 14 Pro", $999.99
-product_item	Specific variants	"Deep Purple 256GB (SKU: IP14P-DP-256)", stock: 85
+product_item	Specific variants	"red 256GB (SKU: IP14P-DP-256)", stock: 85
 brand	Manufacturer data	"Apple", logo URL
 product_category	Product taxonomy	"Phones → iPhone"
 iPhone Variation System
