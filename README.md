@@ -1,7 +1,7 @@
 This project designs a scalable e-commerce database to manage Apple products, variations (colors/storage), and accessories. Perfect for an online store selling iPhones, AirPods, and more!
 
 Key Features:
-✔️ Handles iPhone variations (e.g., "iPhone 14 Pro in Deep Purple/256GB")
+✔️ Handles iPhone variations (e.g., "iPhone 14 Pro in red/256GB")
 ✔️ Organizes products by category (Phones, Accessories, etc.)
 ✔️ Tracks inventory with stock quantities
 ✔️ Flexible attribute system (e.g., "Chipset: A16 Bionic", "Water Resistance: IP68")
